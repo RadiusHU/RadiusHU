@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RadiusHU
+-  I’m interested in beginner friendly projects
+- I’m currently learning JavaScript
+- 📫 How to reach me: kovacs.laszloo05@freemail.hu or my discord
+- 😄 Pronouns: He/Him
